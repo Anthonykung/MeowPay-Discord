@@ -1,0 +1,6 @@
+
+# dependencies
+/node_modules
+
+# Ignore the .env file in the root directory
+.env
